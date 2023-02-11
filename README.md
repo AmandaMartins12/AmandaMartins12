@@ -9,5 +9,5 @@
   
   Upwork: https://www.upwork.com/freelancers/~0178e7052e0639f9f1
  
- - Certifications: Google Data Analytics Certificate- https://www.credly.com/badges/8b2658f4-0b6b-4f2a-a096-efafa529fc8a/linked_in_profile
+ - Certifications: Google Data Analytics Professional Certificate- https://www.credly.com/badges/8b2658f4-0b6b-4f2a-a096-efafa529fc8a/linked_in_profile
  
